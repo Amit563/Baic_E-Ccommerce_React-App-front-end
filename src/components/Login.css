@@ -1,0 +1,21 @@
+.login{
+    margin-left: 30%;
+    margin-top: 100px;
+}
+
+.inputBox{
+    padding: 7px;
+    display: block;
+    border: 1px solid skyblue;
+    width: 300px;
+    margin: 20px;
+}
+
+.appButton{
+    margin: 20px;
+    width: 150px;
+    padding: 10px;
+    background-color: rgb(159, 205, 251);
+    border: solid 2px;
+    cursor: pointer;
+}
