@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hBaic_E-Ccommerce_React-App-front-end/static/css/main.20d0b712.css",
+    "main.js": "/hBaic_E-Ccommerce_React-App-front-end/static/js/main.d697aad6.js",
+    "static/js/787.22edae46.chunk.js": "/hBaic_E-Ccommerce_React-App-front-end/static/js/787.22edae46.chunk.js",
+    "index.html": "/hBaic_E-Ccommerce_React-App-front-end/index.html",
+    "main.20d0b712.css.map": "/hBaic_E-Ccommerce_React-App-front-end/static/css/main.20d0b712.css.map",
+    "main.d697aad6.js.map": "/hBaic_E-Ccommerce_React-App-front-end/static/js/main.d697aad6.js.map",
+    "787.22edae46.chunk.js.map": "/hBaic_E-Ccommerce_React-App-front-end/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20d0b712.css",
+    "static/js/main.d697aad6.js"
+  ]
+}
