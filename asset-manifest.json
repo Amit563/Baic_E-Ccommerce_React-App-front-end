@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Baic_E-Ccommerce_React-App-front-end/static/css/main.20d0b712.css",
-    "main.js": "/Baic_E-Ccommerce_React-App-front-end/static/js/main.0c2384c1.js",
-    "static/js/787.22edae46.chunk.js": "/Baic_E-Ccommerce_React-App-front-end/static/js/787.22edae46.chunk.js",
-    "index.html": "/Baic_E-Ccommerce_React-App-front-end/index.html",
-    "main.20d0b712.css.map": "/Baic_E-Ccommerce_React-App-front-end/static/css/main.20d0b712.css.map",
-    "main.0c2384c1.js.map": "/Baic_E-Ccommerce_React-App-front-end/static/js/main.0c2384c1.js.map",
-    "787.22edae46.chunk.js.map": "/Baic_E-Ccommerce_React-App-front-end/static/js/787.22edae46.chunk.js.map"
+    "main.css": "/Basic_E-Ccommerce_React-App-front-end/static/css/main.20d0b712.css",
+    "main.js": "/Basic_E-Ccommerce_React-App-front-end/static/js/main.d86f4144.js",
+    "static/js/787.22edae46.chunk.js": "/Basic_E-Ccommerce_React-App-front-end/static/js/787.22edae46.chunk.js",
+    "index.html": "/Basic_E-Ccommerce_React-App-front-end/index.html",
+    "main.20d0b712.css.map": "/Basic_E-Ccommerce_React-App-front-end/static/css/main.20d0b712.css.map",
+    "main.d86f4144.js.map": "/Basic_E-Ccommerce_React-App-front-end/static/js/main.d86f4144.js.map",
+    "787.22edae46.chunk.js.map": "/Basic_E-Ccommerce_React-App-front-end/static/js/787.22edae46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20d0b712.css",
-    "static/js/main.0c2384c1.js"
+    "static/js/main.d86f4144.js"
   ]
 }
