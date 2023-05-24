@@ -18,7 +18,7 @@ const Signup = () =>{
 
       const collectdata = async()=>{
         console.warn(name,email,password);
-        let result =await fetch("http://localhost:5000/register",{
+        let result =await fetch("https://e-commerce-back-end-3ec1.onrender.com/register",{
                    method:'post',
                    body:JSON.stringify({name,email,password}),
                    headers:{

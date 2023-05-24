@@ -10,14 +10,14 @@ const ProductList = () =>{
    },[])
 
    const getProduct = async() =>{
-       let result = await fetch("http://localhost:5000/products");
+       let result = await fetch("https://e-commerce-back-end-3ec1.onrender.com/products");
        result = await result.json();
        setProducts(result);
    }
 //    console.warn(products);
    const deleteProduct= async(id)=>{
         // console.warn(id)
-        let result = await fetch(`http://localhost:5000/product/${id}`,{
+        let result = await fetch(`https://e-commerce-back-end-3ec1.onrender.com/product/${id}`,{
             method:'delete'
         });
         result = await result.json();
@@ -31,7 +31,7 @@ const ProductList = () =>{
         // console.warn(event.target.value);
         let key = event.target.value;
         if(key){
-            let result = await fetch(`http://localhost:5000/search/${key}`);
+            let result = await fetch(`https://e-commerce-back-end-3ec1.onrender.com/search/${key}`);
             result = await result.json()
             if(result){
                 setProducts(result);
